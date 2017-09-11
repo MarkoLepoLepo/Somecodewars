@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c64f8600-939e-4542-b233-8f321fd31746" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HolyShit/bin/Debug/HolyShit.exe" afterPath="$PROJECT_DIR$/HolyShit/bin/Debug/HolyShit.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HolyShit/bin/Debug/HolyShit.pdb" afterPath="$PROJECT_DIR$/HolyShit/bin/Debug/HolyShit.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HolyShit/obj/Debug/CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/HolyShit/obj/Debug/CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HolyShit/obj/Debug/HolyShit.exe" afterPath="$PROJECT_DIR$/HolyShit/obj/Debug/HolyShit.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HolyShit/obj/Debug/HolyShit.pdb" afterPath="$PROJECT_DIR$/HolyShit/obj/Debug/HolyShit.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.HolyShit/riderModule.iml" afterPath="$PROJECT_DIR$/.idea/.idea.HolyShit/riderModule.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HolyShit.sln" afterPath="$PROJECT_DIR$/HolyShit.sln" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HolyShit/Program.cs" afterPath="$PROJECT_DIR$/HolyShit/Program.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HolyShit/obj/Debug/HolyShit.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/HolyShit/obj/Debug/HolyShit.csproj.FileListAbsolute.txt" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HolyShit/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="89" column="13" lean-forward="false" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
+              <folding>
+                <marker date="1505160532355" expanded="true" signature="6:92" ph="..." />
+                <marker date="1505160532355" expanded="true" signature="111:3223" ph="{...}" />
+                <marker date="1505160532355" expanded="true" signature="138:3221" ph="{...}" />
+                <marker date="1505160532355" expanded="false" signature="197:317" ph="{...}" />
+                <marker date="1505160532355" expanded="false" signature="369:719" ph="{...}" />
+                <marker date="1505160532355" expanded="false" signature="768:1400" ph="{...}" />
+                <marker date="1505160532355" expanded="true" signature="941:1118" ph="{...}" />
+                <marker date="1505160532355" expanded="true" signature="1253:1309" ph="{...}" />
+                <marker date="1505160532355" expanded="true" signature="1326:1381" ph="{...}" />
+                <marker date="1505160532355" expanded="false" signature="1474:1751" ph="{...}" />
+                <marker date="1505160532355" expanded="false" signature="1836:2143" ph="{...}" />
+                <marker date="1505160532355" expanded="true" signature="1937:2106" ph="{...}" />
+                <marker date="1505160532355" expanded="true" signature="1978:2094" ph="{...}" />
+                <marker date="1505160532355" expanded="true" signature="2187:2747" ph="{...}" />
+                <marker date="1505160532355" expanded="true" signature="2459:2595" ph="{...}" />
+                <marker date="1505160532355" expanded="true" signature="2505:2581" ph="{...}" />
+                <marker date="1505160532355" expanded="true" signature="2629:2686" ph="{...}" />
+                <marker date="1505160532355" expanded="true" signature="2803:2985" ph="{...}" />
+                <marker date="1505160532355" expanded="true" signature="2826:2932" ph="/* Your brilliant solution goes here ... */" />
+                <marker date="1505160532355" expanded="true" signature="3019:3215" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tests.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HolyShit.Test/Tests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+              <folding>
+                <marker date="1505160476584" expanded="true" signature="6:36" ph="..." />
+                <marker date="1505160476584" expanded="true" signature="61:517" ph="{...}" />
+                <marker date="1505160476584" expanded="true" signature="104:515" ph="{...}" />
+                <marker date="1505160476584" expanded="true" signature="158:509" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Kata</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>HolyShit.Program</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/HolyShit/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HolyShit.Test/Tests.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HolyShit.Test/Tests.cs" />
+        <option value="$PROJECT_DIR$/HolyShit/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HolyShit (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HolyShit.Test" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HolyShit (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HolyShit" />
+              <option name="myItemType" value="com.jetbrains.rider.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/HolyShit/HolyShit.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/HolyShit/bin/Debug/HolyShit.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c64f8600-939e-4542-b233-8f321fd31746" name="Default" comment="" />
+      <created>1504714072839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504714072839</updated>
+      <workItem from="1504714078843" duration="15368000" />
+      <workItem from="1504977767952" duration="15537000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit, nothing special">
+      <created>1504977849212</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1504977849212</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Ololo, some misclick">
+      <created>1504977954692</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1504977954692</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30905000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.4152941" sideWeight="0.07411385" order="7" side_tool="true" content_ui="tabs" x="894" y="338" width="626" height="353" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31058824" sideWeight="0.49785176" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1632653" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38470587" sideWeight="0.92588615" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit, nothing special" />
+    <MESSAGE value="Ololo, some misclick" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ololo, some misclick" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="23" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HolyShit/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1505160532355" expanded="true" signature="6:92" ph="..." />
+            <marker date="1505160532355" expanded="true" signature="111:3223" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="138:3221" ph="{...}" />
+            <marker date="1505160532355" expanded="false" signature="197:317" ph="{...}" />
+            <marker date="1505160532355" expanded="false" signature="369:719" ph="{...}" />
+            <marker date="1505160532355" expanded="false" signature="768:1400" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="941:1118" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="1253:1309" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="1326:1381" ph="{...}" />
+            <marker date="1505160532355" expanded="false" signature="1474:1751" ph="{...}" />
+            <marker date="1505160532355" expanded="false" signature="1836:2143" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="1937:2106" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="1978:2094" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="2187:2747" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="2459:2595" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="2505:2581" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="2629:2686" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="2803:2985" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="2826:2932" ph="/* Your brilliant solution goes here ... */" />
+            <marker date="1505160532355" expanded="true" signature="3019:3215" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HolyShit/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="89" column="13" lean-forward="false" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
+          <folding>
+            <marker date="1505160532355" expanded="true" signature="6:92" ph="..." />
+            <marker date="1505160532355" expanded="true" signature="111:3223" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="138:3221" ph="{...}" />
+            <marker date="1505160532355" expanded="false" signature="197:317" ph="{...}" />
+            <marker date="1505160532355" expanded="false" signature="369:719" ph="{...}" />
+            <marker date="1505160532355" expanded="false" signature="768:1400" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="941:1118" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="1253:1309" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="1326:1381" ph="{...}" />
+            <marker date="1505160532355" expanded="false" signature="1474:1751" ph="{...}" />
+            <marker date="1505160532355" expanded="false" signature="1836:2143" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="1937:2106" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="1978:2094" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="2187:2747" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="2459:2595" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="2505:2581" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="2629:2686" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="2803:2985" ph="{...}" />
+            <marker date="1505160532355" expanded="true" signature="2826:2932" ph="/* Your brilliant solution goes here ... */" />
+            <marker date="1505160532355" expanded="true" signature="3019:3215" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HolyShit.Test/Tests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <marker date="1505160476584" expanded="true" signature="6:36" ph="..." />
+            <marker date="1505160476584" expanded="true" signature="61:517" ph="{...}" />
+            <marker date="1505160476584" expanded="true" signature="104:515" ph="{...}" />
+            <marker date="1505160476584" expanded="true" signature="158:509" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

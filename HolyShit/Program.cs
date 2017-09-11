@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using System.Diagnostics;
+using System.Linq;
 namespace HolyShit
 {
     public class Program
@@ -72,14 +73,38 @@ namespace HolyShit
           }
             return result;
         }
-        public static string Tickets(int[] peopleInLine)
-        { 
+        public static int[] Divisors(int n)
+        {
             
+            List<int> results = new List<int>();
+            var firstdivisor = Enumerable.Range(2, n/2).FirstOrDefault(s=>n%s==0);
+            var checker = Enumerable.Range(firstdivisor, n/firstdivisor);
+            foreach (var check in checker)
+            {
+                if (n%check==0)
+                {
+                    results.Add(check);
+                }
+            }
+            if (results.Count==0)
+            {
+                return null;
+            }
+            return results.ToArray();
+            
+        }
+        public static int[] ArrayDiff(int[] a, int[] b)
+        {
+            // Your brilliant solution goes here
+            // It's possible to pass random tests in about a second ;
+            return a.Except(b).Distinct();
         }
         public static void Main()
         {
-        
-            Console.Write(NbYear(1500000, 2.5, 10000, 2000000));
+            int[] a = new[] {1, 2, 3, 4};
+            int[] b = new[] {1, 2, 2, 2, 4};
+            Console.WriteLine(ArrayDiff(a,b));
+            Console.Write(Divisors(120));
         }
     }
 }

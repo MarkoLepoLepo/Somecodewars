@@ -3,6 +3,9 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../..">
       <sourceFolder url="file://$MODULE_DIR$/../../HolyShit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../HolyShit.Test" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../HolyShit.Test/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../HolyShit.Test/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../HolyShit/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../HolyShit/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../packages" />

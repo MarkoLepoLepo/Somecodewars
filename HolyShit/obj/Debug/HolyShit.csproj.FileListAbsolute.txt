@@ -3,3 +3,8 @@ D:\Projects\HolyShit\HolyShit\bin\Debug\HolyShit.pdb
 D:\Projects\HolyShit\HolyShit\obj\Debug\HolyShit.csprojResolveAssemblyReference.cache
 D:\Projects\HolyShit\HolyShit\obj\Debug\HolyShit.exe
 D:\Projects\HolyShit\HolyShit\obj\Debug\HolyShit.pdb
+D:\Projects\HolyShit\Somecodewars\HolyShit\bin\Debug\HolyShit.exe
+D:\Projects\HolyShit\Somecodewars\HolyShit\bin\Debug\HolyShit.pdb
+D:\Projects\HolyShit\Somecodewars\HolyShit\obj\Debug\HolyShit.csprojResolveAssemblyReference.cache
+D:\Projects\HolyShit\Somecodewars\HolyShit\obj\Debug\HolyShit.exe
+D:\Projects\HolyShit\Somecodewars\HolyShit\obj\Debug\HolyShit.pdb
